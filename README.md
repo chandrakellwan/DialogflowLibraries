@@ -1,4 +1,4 @@
-# Dialogflow libraries and samples
+# Dialogflow Libraries and Samples
 Dialogflow's APIs allow you to take action on your own systems based on conversational input, embed your conversational interface into your app or website, and dynamically change your agent's behavior. Dialogflow APIs center around three primary use cases:
 
 ![](https://raw.githubusercontent.com/dialogflow/resources/master/images/overview.png)
